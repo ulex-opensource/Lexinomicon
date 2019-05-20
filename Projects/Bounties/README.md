@@ -1,13 +1,13 @@
 # Bounties
 
 1. Bounties provide a mechanism for funding tasks. 
-1. Tasks are tracked as [Cryptonomicon issues](https://github.com/cryptotechguru/Cryptonomicon/issues).
+1. Tasks are tracked as [Lexinomicon issues](https://github.com/cryptotechguru/Lexinomicon/issues).
 1. The bounty MUST get its own page which includes:
 * name (Bounty-#) where # is the issue #
 * associated issue link
-* lead [Gatekeeper](/Cryptonomicon/Roles/Gatekeeper)
-* lead [Keymaster](/Cryptonomicon/Roles/Keymaster)
-* assigned [Treasurer](/Cryptonomicon/Roles/Treasurer)
+* lead [Gatekeeper](/Lexinomicon/Roles/Gatekeeper)
+* lead [Keymaster](/Lexinomicon/Roles/Keymaster)
+* assigned [Treasurer](/Lexinomicon/Roles/Treasurer)
 * associated project link
 * requirements
 * estimate
@@ -17,7 +17,7 @@
 
 ## Process
 
-The players involved SHOULD marshal the bounty through the following standard stages in the [Bounties project](https://github.com/cryptotechguru/Cryptonomicon/projects/2):
+The players involved SHOULD marshal the bounty through the following standard stages in the [Bounties project](TBD):
 
 ### Triage
 
