@@ -5,6 +5,7 @@
 * name
 * active game roles
 1. Players SHOULD add the following info to their player-space:
+* link to user profile on https://ulex.app/
 * achievements earned
 * identity links (github, keybase, linkedin, twitter, etc.)
 * profile pic
