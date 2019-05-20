@@ -1,4 +1,4 @@
-## [Projects]
+## Projects
 
 1. A project is a sub-game that inherits from the base rule set of Lexinomicon.
 1. A project MUST have a unique name.
