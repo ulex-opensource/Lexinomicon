@@ -5,9 +5,9 @@
 1. The bounty MUST get its own page which includes:
 * name (Bounty-#) where # is the issue #
 * associated issue link
-* lead [Gatekeeper](/Lexinomicon/Roles/Gatekeeper)
-* lead [Keymaster](/Lexinomicon/Roles/Keymaster)
-* assigned [Treasurer](/Lexinomicon/Roles/Treasurer)
+* lead [Gatekeeper](../../Roles/Gatekeeper)
+* lead [Keymaster](../../Roles/Keymaster)
+* assigned [Treasurer](../../Roles/Treasurer)
 * associated project link
 * requirements
 * estimate
