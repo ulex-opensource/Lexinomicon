@@ -6,8 +6,8 @@
 
 ## List of Roles
 
-* [Player](Player/)
+* [Legislator](Legislator/)
 * [Operator](Operator/)
-* [Gatekeeper](Gatekeeper/)
-* [Keymaster](Keymaster/)
+* [Director](Director/)
+* [Executive](Executive/)
 * [Treasurer](Treasurer/)
