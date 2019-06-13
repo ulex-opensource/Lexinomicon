@@ -1,6 +1,7 @@
 # Director
 
 1. The Director [role](..) is responsible for representing the customer/end-user/stakeholders for a given project or task.
+1. The Director role is held by the Managing Director of the [ICG](https://instituteforcompgov.org/).
 1. The Director (or their delegate) is responsible for:
 * defining requirements, acceptance criteria, and the definition of done (DoD)
 * negotiating in good faith with the corresponding [Executive](../Executive)
